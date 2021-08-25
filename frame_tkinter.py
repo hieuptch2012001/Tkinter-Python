@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import Frame, ttk
+from tkinter import ttk
 
 
 def create(para):
